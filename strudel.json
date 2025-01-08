@@ -1,0 +1,6 @@
+{
+    "_base": "https://raw.githubusercontent.com/boggodan/bflute/master/",
+    "flphrases": ["bflphrases/rphrase1.wav","bflphrases/rphrase2.wav","bflphrases/rphrase3.wav","bflphrases/rphrase4.wav","bflphrases/rphrase5.wav"],
+    "flnote": "bflnote/rnote",
+    "flflutter": "bflutter/rflutter.wav"
+}
